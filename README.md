@@ -1,0 +1,2 @@
+# dissertacao_mestrado
+ Na dissertação de mestrado intitulada "Antes tarde do que nunca: uma análise dos fatores associados à saída dos partidos da coalizão", procuro responder a seguinte pergunta: "Quais são os fatores associados à duração do partido no governo?". Para respondê-la, utilizei a análise de sobrevivência no período de 1995 a 2017 no Brasil, por meio de regressões com o modelo de Cox estendido para 48 ids, 563 obsevações e 12 eventos. Os resultados e mais detalhes sobre a teoria e a metodologia podem ser acessados na própria dissertação.
